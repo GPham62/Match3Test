@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efe5aebaf1399444dbc1aa6362e334c1, type: 3}
+  m_Name: FishSkin
+  m_EditorClassIdentifier: 
+  matches:
+  - name: normal_01
+    prefab: {fileID: 1645311756642076403, guid: 564aa2ca48f0a5140abb48aca62fe677,
+      type: 3}
+  - name: normal_02
+    prefab: {fileID: 1645311756642076403, guid: c45629af04b51224e8a8cb187c1f7cfa,
+      type: 3}
+  - name: normal_03
+    prefab: {fileID: 1645311756642076403, guid: a5c0ce45c8c361c4bbe411bde7b07eb4,
+      type: 3}
+  - name: normal_04
+    prefab: {fileID: 1645311756642076403, guid: 27e0e33e63dc7b2448e8cf75d2002068,
+      type: 3}
+  - name: normal_05
+    prefab: {fileID: 1645311756642076403, guid: f68bda5195477c24f88a00a3373687f3,
+      type: 3}
+  - name: normal_06
+    prefab: {fileID: 1645311756642076403, guid: a3811760cfda4764ab6fc382e252d1dd,
+      type: 3}
+  - name: normal_07
+    prefab: {fileID: 1645311756642076403, guid: ae03ed262857a5b4b82e82dbc47474cb,
+      type: 3}
